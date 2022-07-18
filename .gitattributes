@@ -1,1 +1,2 @@
-*.csharp linguist-detectable=true
+# Direct csharp
+*.* linguist-language=csharp
